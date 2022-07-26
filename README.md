@@ -1,0 +1,2 @@
+# imageBad
+My images Derictory
